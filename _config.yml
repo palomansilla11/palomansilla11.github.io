@@ -1,0 +1,5 @@
+title: "Mi GitHub Pages"
+description: "Este es mi sitio web en GitHub Pages"
+url: "https://tu_usuario.github.io/tu_repositorio"
+baseurl: "" # Si tu sitio es subdirectorio, pon aquí el nombre del repositorio
+theme: jekyll-theme-slate # Puedes cambiar el tema aquí
